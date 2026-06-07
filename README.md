@@ -71,7 +71,7 @@ app/src/main/
 
 1. Клонирайте репозиторията:
    ```bash
-   git clone https://github.com/2399-lich/BaobabFamilyTree
+   git clone https://github.com/2399-lich/BaobabFamilyTree.bit
    ```
 
 2. Отворете Android Studio → **Файл → Отвори** → изберете папката `BaobabFamilyTree` (тази, която съдържа `build.gradle` и `settings.gradle`)
